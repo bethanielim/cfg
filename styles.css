@@ -50,11 +50,11 @@
   display: block;
 }
 
-.img {
-  display: block;
-  margin: 0px;
-}
-
 body {
   background-color: #ff917d;
+}
+
+.carousel-inner {
+  height: 100%;
+  width: auto;
 }

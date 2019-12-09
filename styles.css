@@ -54,7 +54,6 @@ body {
   background-color: #ff917d;
 }
 
-.carousel-inner {
-  height: 100%;
-  width: auto;
+.card {
+  margin-top: 10px;
 }
